@@ -14,6 +14,6 @@ Xibei Zhang|xzhang774|xzhang774@gatech.edu
 | ------------- | -----:|
 | Person 1      | Bryan Baek|
 | Person 2      | Young Hu |
-| Person 3|  |
-| Person 4| |
+| Person 3| Yuqi(Peggy) Cao |
+| Person 4| Jingyang Sui|
 | Person 5| Xibei Zhang|

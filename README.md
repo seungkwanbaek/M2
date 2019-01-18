@@ -10,9 +10,10 @@ Jingyang Sui|jsui7|jysui@gatech.edu
 Xibei Zhang|xzhang774|xzhang774@gatech.edu
 
 ## Task Distribution
+
 :-:|:-:|:-:
-Person1 | Bryan Baek
-Person2 | Young Hu
-Person3 |
-Person4 |
-Person5 | Xibei Zhang
+Person1|Bryan Baek
+Person2|Young Hu
+Person3|
+Person4|
+Person5|Xibei Zhang

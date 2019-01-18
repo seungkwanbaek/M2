@@ -5,7 +5,7 @@ Name|unique name|email
 :-:|:-:|:-:
 Bryan Baek||sbaek47@gatech.edu
 Yuqi Cao||ycao344@gatech.edu
-Young Hu||whoyoung99@gmail.com
+Young Hu|yhu388|whoyoung99@gmail.com
 Jingyang Sui|jsui7|jysui@gatech.edu
 Xibei Zhang|xzhang774|xzhang774@gatech.edu
 

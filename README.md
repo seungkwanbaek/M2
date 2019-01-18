@@ -10,7 +10,10 @@ Jingyang Sui|jsui7|jysui@gatech.edu
 Xibei Zhang|xzhang774|xzhang774@gatech.edu
 
 ## Task Distribution
-
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Task       |  Assigned |
+| ------------- | -----:|
+| Person 1      | Bryan Baek|
+| Person 2      | Young Hu |
+| Person 3|  |
+| Person 4| |
+| Person 5| Xibei Zhang|

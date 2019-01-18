@@ -3,7 +3,7 @@
 ## Team Members
 Name|unique name|email
 :-:|:-:|:-:
-Bryan Baek||sbaek47@gatech.edu
+Bryan Baek|sbaek47|sbaek47@gatech.edu
 Yuqi Cao|ycao344|ycao344@gatech.edu
 Young Hu|yhu388|whoyoung99@gmail.com
 Jingyang Sui|jsui7|jysui@gatech.edu

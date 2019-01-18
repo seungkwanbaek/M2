@@ -10,8 +10,7 @@ Jingyang Sui|jsui7|jysui@gatech.edu
 Xibei Zhang|xzhang774|xzhang774@gatech.edu
 
 ## Task Distribution
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |

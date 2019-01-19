@@ -11,7 +11,7 @@ Xibei Zhang|xzhang774|xzhang774@gatech.edu
 
 ## Task Distribution
 | Task       |  Assigned |
-| ------------- | -----:|
+| :-: | :-:|
 | Person 1      | Bryan Baek|
 | Person 2      | Young Hu |
 | Person 3| Yuqi(Peggy) Cao |

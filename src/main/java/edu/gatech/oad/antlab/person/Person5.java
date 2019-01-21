@@ -36,7 +36,7 @@ public class Person5 {
 		swap(chars, 0, len - 1);
 		swap(chars, 0, len - 3);
 		swap(chars, len - 2, len - 1);
-	  	return (new String)(chars);
+	  	return String.valueOf(chars);
 	}
 
 	private void swap(char[] chars, int left, int right) {

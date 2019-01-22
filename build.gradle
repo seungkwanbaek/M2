@@ -4,4 +4,23 @@
  * This is a general purpose Gradle build.
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds/
  */
+defaultTasks   jar
 apply plugin: 'java'
+
+//1. How does the jar file know what class to run when it is opened? Is there a class that actually runs your appliction's code.
+//2. How does the jar file know where to find the the resources.jar file at runtime?
+jar  {
+  manifest {
+     attributes  'Implementation-Title' : 'Gradle Quickstart' ,
+                 'Implementation-Version' : version,
+                 'Main-Class' : 'HelloWorld' 
+    }
+
+      //destinationDir = file('.')
+      //archiveName = 'hello.jar'
+}
+
+dependencies {
+    compile group: 'org.hibernate', name: 'hibernate-core', version: '3.6.7.Final'
+	testCompile group: 'junit', name: 'junit', version: '4.+'
+}

@@ -14,11 +14,10 @@ jar  {
      attributes  'Implementation-Title' : 'Gradle M2' ,
                  'Implementation-Version' : '0.1',
                  'Main-Class' : 'edu.gatech.oad.antlab.pkg1.AntLabMain',
-                 'Class-Path' : '..//resources.jar'
+                 'Class-Path' : '../../lib/resources.jar'
     }
 }
 
 dependencies {
-    compile group: 'org.hibernate', name: 'hibernate-core', version: '3.6.7.Final'
-	testCompile group: 'junit', name: 'junit', version: '4.+'
+    compile files('lib/resources.jar')
 }
